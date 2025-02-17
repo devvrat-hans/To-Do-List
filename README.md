@@ -69,15 +69,15 @@ Styles the to-do list, including layout, colors, fonts, and animations for smoot
 
 That's it! You're ready to start adding tasks!
 
-## Screenshot 📸
+## Screenshot 
 
-<img width="1440" alt="Screenshot 2025-02-01 at 2 29 23 PM" src="https://github.com/user-attachments/assets/51505042-1398-41b9-92c7-ccef50f71e60" />
+<img width="1440" alt="Screenshot 2025-02-17 at 10 27 59 AM" src="https://github.com/user-attachments/assets/20632c0f-ee72-41cf-9673-f6e401ebd4d2" />
 
-## Live Demo 📸
+## Live Demo 
 
 [DEMO](https://droll-todo-list.netlify.app/)
 
-## Contributing 🤝
+## Contributing 
 
 We welcome contributions to improve this project! Whether it's fixing bugs, adding features, or improving documentation, feel free to open an issue or submit a pull request.
 
@@ -92,7 +92,7 @@ We welcome contributions to improve this project! Whether it's fixing bugs, addi
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact ✉️
+## Contact ✉
 
 - Created by [Devvrat Hans](https://github.com/devvrat-hans)
 - Feel free to open issues or contact me directly for any queries!
